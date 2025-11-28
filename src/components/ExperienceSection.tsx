@@ -166,7 +166,7 @@ export function ExperienceSection() {
 
             <div className="mt-8 text-center">
               <a
-                href="/public/Ronald nformi cv.docx"
+                href="/Ronald_nformi_cv.docx"
                 download
                 className="inline-flex items-center text-gold-500 hover:text-gold-300"
               >
