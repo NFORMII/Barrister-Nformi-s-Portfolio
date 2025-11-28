@@ -27,9 +27,9 @@ export function ContactSection() {
                       Office Address
                     </h4>
                     <p className="text-gray-600">
-                      123 Legal Avenue, Suite 500
+                      Portio Jure court junction buea
                       <br />
-                      New York, NY 10001
+                      P.O. Box 526
                     </p>
                   </div>
                 </div>
@@ -39,7 +39,9 @@ export function ContactSection() {
                   </div>
                   <div>
                     <h4 className="font-medium text-navy-700">Phone</h4>
-                    <p className="text-gray-600">(212) 555-1234</p>
+                    <p className="text-gray-600">+237 651 985 498
+
+                    </p>
                   </div>
                 </div>
                 <div className="flex items-start">
@@ -48,7 +50,7 @@ export function ContactSection() {
                   </div>
                   <div>
                     <h4 className="font-medium text-navy-700">Email</h4>
-                    <p className="text-gray-600">nformironald@gmail.com</p>
+                    <p className="text-gray-600"> ronaldngeh@gmail.com</p>
                   </div>
                 </div>
                 <div className="flex items-start">

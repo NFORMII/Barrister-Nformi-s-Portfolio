@@ -94,7 +94,7 @@ export function EducationSection() {
                   </li>
                   <li className="flex items-center">
                     <div className="w-2 h-2 bg-gold-500 rounded-full mr-2"></div>
-                    <span>Cameroon (In Progress)</span>
+                    <span>Supreme Court of Cameroon</span>
                   </li>
                 </ul>
               </div>
