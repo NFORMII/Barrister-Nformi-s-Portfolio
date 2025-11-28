@@ -24,7 +24,7 @@ export function Footer() {
                 <Twitter className="w-5 h-5" />
                 <span className="sr-only">Twitter</span>
               </a>
-              <a href="#" className="text-gray-400 hover:text-gold-500 transition-colors">
+              <a href="https://www.linkedin.com/in/nformi-ronald-ngeh-a4a235223?utm_source=share_via&utm_content=profile&utm_medium=member_android" className="text-gray-400 hover:text-gold-500 transition-colors">
                 <Linkedin className="w-5 h-5" />
                 <span className="sr-only">LinkedIn</span>
               </a>
