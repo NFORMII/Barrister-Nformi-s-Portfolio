@@ -44,7 +44,7 @@ export function AboutSection() {
           <div className="relative">
             <div className="absolute inset-0 bg-navy-700 transform translate-x-4 translate-y-4 rounded-lg"></div>
             <div className="absolute inset-0 bg-gold-500 transform translate-x-2 translate-y-2 rounded-lg"></div>
-            <img src="/ronny_pic.jpeg"  className="relative z-10 w-full h-auto rounded-lg shadow-lg" />
+            <img src="/office picture.jpg"  className="relative z-10 w-full h-auto rounded-lg shadow-lg" />
           </div>
         </div>
         <div className="mt-16">
