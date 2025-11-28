@@ -16,7 +16,7 @@ export function Footer() {
               integrity, precision, and a passion for fintech and digital-asset regulation.
             </p>
             <div className="flex space-x-4">
-              <a href="#" className="text-gray-400 hover:text-gold-500 transition-colors">
+              <a href="https://www.facebook.com/share/17p9a9XXGs/" className="text-gray-400 hover:text-gold-500 transition-colors">
                 <Facebook className="w-5 h-5" />
                 <span className="sr-only">Facebook</span>
               </a>
