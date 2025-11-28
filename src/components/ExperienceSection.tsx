@@ -10,7 +10,7 @@ export function ExperienceSection() {
 
   const roles = [
     {
-      year: "2022 – Present",
+      year: "2022 – 2023",
       title: "Lawyer",
       firm: "SCP Abdoul Bagui Law Firm, Yaoundé",
       summary:
@@ -29,7 +29,7 @@ export function ExperienceSection() {
       ],
     },
     {
-      year: "2022 – Present",
+      year: "2023 – Present",
       title: "Lawyer",
       firm: "Portio Jure Law Firm, Buea",
       summary:
